@@ -1,6 +1,6 @@
 # Introduction To Docker
 
-![Introduction To Docker](/images/01_Docker_Intro/Docker%20Blog%20-%20Intro.png)
+![Introduction To Docker](./images/01_Docker_Intro/Blog_Thumbnail.png)
 
 When developers work on a project, there is a common issue that happens almost every time: the project works wonderfully on the developer's machine, but when it is moved to production, a server or another team member's computer, it fails to function properly. This is commonly known as the **"It Works on My Machine"** problem.
 
@@ -16,7 +16,7 @@ Consider creating a website with Node JS or PHP. On your local PC, everything wo
 
 This problem becomes more severe in large-scale projects that include programming languages like **Node.js**, **Python**, **Java**, **Ruby**, or **PHP** etc.
 
-![Docker: It Works on My Machine](/images/01_Docker_Intro/It_Works_on_My_Machine.jpeg)
+![Docker: It Works on My Machine](./images/01_Docker_Intro/It_Works_on_My_Machine.png)
 
 This is where **Docker** comes in to solve the problem.
 
@@ -104,7 +104,7 @@ Docker allows you to share and publish your containers:
 
 ## **Conclusion**
 
-Docker eliminates the infamous **"It Works on My Machine"** problem by creating portable, sealed, and shareable containers that work identically across all environments. Whether you are running a simple web app or a large-scale project, Docker ensures a consistent and smooth experience for both developers and production teams.
+Docker solves the well-known "It Works on My Machine" problem by creating portable, sealed, and shareable containers that perform similarly in all contexts. Whether you're running a tiny web app or a large-scale project, Docker provides a uniform and smooth experience for developers and production teams.
 
 If you haven't already explored Docker, now is the time to get started and simplify your development process!
 
