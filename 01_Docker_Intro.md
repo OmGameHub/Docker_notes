@@ -92,7 +92,7 @@ Docker allows you to share and publish your containers:
 
 -   Others can download and start from a specific **checkpoint** of your application.
 
-## **Key Benefits of Docker**
+## **Why Developers Should Use Containers**
 
 1. **Consistency**: Docker ensures your project runs the same on any machine.
 
@@ -101,6 +101,10 @@ Docker allows you to share and publish your containers:
 3. **Simplified Installation**: Complex installations, like MySQL or Python libraries, become frictionless with Docker containers.
 
 4. **Collaboration**: Sharing containers makes it easy for teams to work together seamlessly.
+
+5. **Isolation**: Each container runs in its own environment, preventing conflicts between applications.
+
+6. **Scalability**: Docker makes it easy to scale applications by deploying multiple containers.
 
 ## **Conclusion**
 
